@@ -1,0 +1,13 @@
+{
+    "name": "cingwun/composer-test",
+    "description": "This is my first composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Wang",
+            "email": "cingwun0817@gmail.com"
+        }
+    ],
+    "require": {}
+}
